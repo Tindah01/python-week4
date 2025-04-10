@@ -1,0 +1,42 @@
+Countries in Africa: Kenya, Uganda, and Tanzania
+
+1. Kenya 🇰🇪
+Population: ~55 million
+Languages: English, Swahili
+Demographics: Over 40 ethnic groups including Kikuyu, Luo, Luhya, and Maasai.
+Wildlife: Big Five – lions, elephants, leopards, buffalo, rhinos.
+Tourist Attractions:
+- Maasai Mara National Reserve (Great Migration)
+- Amboseli National Park (views of Mount Kilimanjaro)
+- Lake Nakuru (flamingos, rhinos)
+- Diani Beach (white-sand beaches)
+
+2. Uganda 🇺🇬
+Population: ~48 million
+Languages: English, Swahili, Luganda
+Demographics: Ethnic groups include Baganda, Banyankole, Basoga, and Bakiga.
+Wildlife: Mountain gorillas, chimpanzees, savannah animals.
+Tourist Attractions:
+- Bwindi Impenetrable Forest (gorilla trekking)
+- Murchison Falls National Park (powerful waterfalls, wildlife)
+- Queen Elizabeth National Park (tree-climbing lions)
+- Lake Victoria (Africa’s largest lake)
+
+3. Tanzania 🇹🇿
+Population: ~65 million
+Languages: Swahili, English
+Demographics: Home to many groups including Sukuma, Chagga, and Hadza.
+Wildlife: Serengeti migration, lions, elephants, rich biodiversity.
+Tourist Attractions:
+- Serengeti National Park (wildebeest migration)
+- Mount Kilimanjaro (Africa’s tallest peak)
+- Ngorongoro Crater (volcanic wildlife reserve)
+- Zanzibar (historic island, beaches, Swahili culture)
+
+Summary Table:
+
+Country   | Population | Language(s)         | Wildlife             | Top Attractions
+--------- |------------|----------------------|----------------------|-------------------------------
+Kenya     | ~55 million| English, Swahili     | Big Five             | Maasai Mara, Diani Beach, Amboseli
+Uganda    | ~48 million| English, Swahili     | Gorillas, chimps     | Bwindi Forest, Murchison Falls
+Tanzania  | ~65 million| Swahili, English     | Wildebeest, lions    | Serengeti, Kilimanjaro, Zanzibar
